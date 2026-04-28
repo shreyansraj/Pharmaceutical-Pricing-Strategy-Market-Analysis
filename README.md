@@ -130,8 +130,3 @@ ROW_NUMBER() OVER (
 * Market segmentation is critical for strategy
 * Data → Insight → Strategy is the core consulting workflow
 
----
-
-## 👤 Author
-
-Shreyans Raj
